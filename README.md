@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhaveshsisodia
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m Data Analyst 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bhaveshsisodia2@gmail.com
 
