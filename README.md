@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhaveshsisodia
-- 👀 I’m Data Analyst 
+- 👀 I’m Data Scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bhaveshsisodia2@gmail.com
 
