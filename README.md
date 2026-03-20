@@ -24,15 +24,15 @@
 
 ### 🔴 Live Production Systems
 
-**[IEX DAM & RTM Electricity Price Forecasting](https://github.com/Bhaveshsisodia/iex-dam-rtm-forecasting)**
+**[IEX DAM & RTM Electricity Price Forecasting]**
 > Forecasting intraday electricity market prices (DAM + RTM) on Indian Energy Exchange using XGBoost, LSTM & ARIMA. Live since Jul 2022.
 `Python` `XGBoost` `LSTM` `ARIMA` `Time Series` `Feature Engineering`
 
-**[Electricity Load Forecasting — 4 States](https://github.com/Bhaveshsisodia/electricity-load-forecasting)**
+**[Electricity Load Forecasting — 4 States]**
 > End-to-end demand forecasting for Maharashtra, UP, Bihar & MP using Gradient Boosting. 2% MAPE improvement. Live since Jul 2022.
 `Python` `Gradient Boosting` `Scikit-learn` `Time Series` `Pandas`
 
-**[Automated Load Balancing System — Bihar](https://github.com/Bhaveshsisodia/load-balancing-bihar)**
+**[Automated Load Balancing System — Bihar]**
 > Real-time power curtailment algorithm processing 30-second frequency data across 100+ substations. Delivered Jun 2023, in maintenance.
 `Python` `Real-Time Processing` `ETL` `Automation` `Optimization`
 
