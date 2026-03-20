@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhavesh Kumar Lohar
 
-### ML Engineer | Forecasting & AI | Fintech / Quant Finance
+### ML Engineer | Forecasting & AI | Data Scientist |Fintech / Quant Finance
 
 > Building intelligent systems at the intersection of **Machine Learning** and **Finance**
 
