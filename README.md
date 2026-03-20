@@ -79,4 +79,4 @@ Tools        :  Pandas | NumPy | Selenium | BeautifulSoup | Git | Django
 
 ---
 
-*📍 Gurugram, India | Open to Fintech & Quant Finance ML roles*
+*📍 Delhi/Noida/Gurugram, India | Open to Fintech , Quant Finance ML and Data Science roles*
