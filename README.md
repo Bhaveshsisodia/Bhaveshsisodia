@@ -14,7 +14,7 @@
 
 | Project | Status | Stack |
 |---------|--------|-------|
-| 🤖 Financial News Sentiment Agent | 🟡 In Progress | LangChain · LangGraph · NLP · NewsAPI |
+| 🤖 [Financial News Sentiment Agent](https://github.com/Bhaveshsisodia/finsight) | 🟡 In Progress | LangChain · LangGraph · NLP · NewsAPI |
 | 📈 Stock Price Forecasting + LLM Explainer | 🔜 Next | LangChain · LSTM · XGBoost · yFinance |
 | 📄 Earnings Concall RAG Chatbot | 🔜 Planned | LangChain · FAISS · HuggingFace · Streamlit |
 
